@@ -36,4 +36,5 @@ sentiment-analysis/
 
 
 
-https://amazon-reviews-2023.github.io/
+## 👤 FURKAN DEMİR 
+Geliştiren: **[FURKAN DEMİR ]**  
