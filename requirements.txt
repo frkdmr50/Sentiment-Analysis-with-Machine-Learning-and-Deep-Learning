@@ -1,6 +1,9 @@
 pandas
-scikit-learn
-nltk
 numpy
-seaborn
+nltk
+scikit-learn
 matplotlib
+seaborn
+tensorflow
+wordcloud
+
